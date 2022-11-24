@@ -1,1 +1,0 @@
-#inner{height:80%;width:80%;background-color:blue;z-index:1111}#inner,#outter{position:relative}#outter{width:160px;height:160px;background-color:red;z-index:100;display:flex;justify-content:center;align-items:center}#other{width:100px;height:100px;background-color:green;position:relative;top:-40px;z-index:32}
